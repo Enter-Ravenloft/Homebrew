@@ -1,5 +1,7 @@
 # Pugilist Enhancements
-*Weapon*
+*Simple Weapon*
+*1gp*
+*light, unarmed*
 
 ### Description
 Creatures with natural weapons or unarmed strikes can augment their *untransformed* body (transformed Bloodhunters, Wildshaped Druids etc cannot wield these weapons) with Pugilist Enhancements.
