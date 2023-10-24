@@ -8,4 +8,5 @@ This bandolier has 4 loops, each of which can hold a weapon that must have the T
 If a bound weapon in the bandolier requires attunement and is bound to the bandolier, the bandolier and the weapon count as a single magic item with regard to the number of magic items you can attune to. Any additional weapons requiring attunement bound to the bandolier count against attunement limits as normal. If attunement to the bandolier is broken, all weapons immediately become unbound.
 
 Weapons bound to the bandolier gain the following property:
+
 **Returning:** This weapon returns to the bandolier at the end of the wearer's turn if it is no longer in the bandolier.
