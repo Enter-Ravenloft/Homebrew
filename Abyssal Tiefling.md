@@ -23,7 +23,6 @@ Charisma is your spellcasting ability for these spells.<br><br>
 | 5 | Acid |
 | 6 | Poison |
 
-<br>
 ### Abyssal Legacy Spells
 | d6 | 1st Level | 3rd Level | 5th Level |
 |:---:|:---|:---|:---|
