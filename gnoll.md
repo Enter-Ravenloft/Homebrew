@@ -13,4 +13,4 @@ Whether firmly under their wild influences or making their living in a less viol
 * **Languages.** You speak, read, and write Common, Abyssal and Gnoll though it lacks a script or written form.
 
 
-There is a [D&D Beyond Homebrew](<https://www.dndbeyond.com/races/707948-gnoll-entrellia>) of this race. It is your responsibility to verify the D&D Beyond version matches this official, approved version for Enter Ravenlft.
+There is a [D&D Beyond Homebrew](<https://www.dndbeyond.com/races/707948-gnoll-entrellia>) of this race. It is your responsibility to verify the D&D Beyond version matches this official, approved version for Enter Ravenloft.
