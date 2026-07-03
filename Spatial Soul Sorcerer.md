@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spatial Soul Sorcerer"
+---
+
 # Spatial Soul Sorcerer
 
 Some attribute the acquisition of this magic to exposure to teleportation magic before birth, others link it to a connection with extradimensional spaces, and others still believe this magic is actually from a psychic disconnect with the material world. Whatever the true source may be, you are gifted with powers of teleportation that even archmages can only envy.

@@ -1,3 +1,13 @@
+title: Enter Ravenloft Homebrew
+description: Homebrew for the Enter Ravenloft play-by-post Discord server
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Give every Markdown page the theme's default layout so it renders as HTML.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

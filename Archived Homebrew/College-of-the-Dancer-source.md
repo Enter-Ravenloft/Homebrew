@@ -1,3 +1,8 @@
+---
+layout: default
+title: "College of the Dancer (source)"
+---
+
 ```metadata
 title: College of the Dancer (Enter Ravenloft)
 description: ''

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Foursworn Stiletto"
+---
+
 ## Foursworn Stiletto
 _Weapon (Dagger), Uncommon_
 
