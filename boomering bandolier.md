@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Boomerang Bandolier"
+---
+
 # Boomerang Bandolier
 *Wondrous Item, Uncommon, Requires Attunement*
 

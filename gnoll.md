@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Gnoll"
+---
+
 ## Gnoll (Entrellia, ported to Enter Ravenloft)
 Whether firmly under their wild influences or making their living in a less violent society, Gnolls can be best described as aggressive, furry powerhouses. They can range anywhere from aggressively friendly, aggressively dogmatic, aggressively unimpressed, and just about any state of being you can stick ‘aggressive’ in front of.
 

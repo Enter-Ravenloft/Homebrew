@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Pugilist Enhancements"
+---
+
 # Pugilist Enhancements
 *Simple Weapon*
 *1gp*

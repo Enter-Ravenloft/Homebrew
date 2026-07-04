@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spiderkin"
+---
+
 # Spiderkin
 The spiderkin are a race unknown to most, if not all, of the world. They hide deep in the Underdark and only leave in dire emergencies. The occasional drow that discovers their society will find that they will never leave.
 ### Thin and Secretive

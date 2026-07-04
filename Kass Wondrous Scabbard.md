@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Kass Wondrous Scabbard"
+---
+
 ## Kass Wondrous Scabbard
 _Wondrous Item (Container), Rare_
 

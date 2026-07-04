@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Tiefling (Abyssal)"
+---
+
 ## Tiefling (Abyssal)
 * **Ability Scores:** Cha +2; Con +1
 * **Size:** Medium
